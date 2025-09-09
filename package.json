@@ -37,7 +37,7 @@
   "homepage": "https://github.com/HMPO/hmpo-stubber#readme",
   "dependencies": {
     "body-parser": "^1.20.3",
-    "debug": "^4.3.7",
+    "debug": "4.3.7",
     "express": "^4.21.1",
     "optionator": "^0.9.4",
     "underscore": "^1.13.7"
