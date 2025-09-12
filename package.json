@@ -1,6 +1,6 @@
 {
   "name": "hmpo-stubber",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Create dynamic stub API services using a simple JSON configuration",
   "main": "./lib",
   "directories": {
@@ -37,7 +37,7 @@
   "homepage": "https://github.com/HMPO/hmpo-stubber#readme",
   "dependencies": {
     "body-parser": "^1.20.3",
-    "debug": "4.3.7",
+    "debug": "^4.3.7",
     "express": "^4.21.1",
     "optionator": "^0.9.4",
     "underscore": "^1.13.7"
