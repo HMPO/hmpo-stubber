@@ -2,7 +2,7 @@
   "name": "hmpo-stubber",
   "version": "3.0.2",
   "description": "Create dynamic stub API services using a simple JSON configuration",
-  "main": "./lib",
+  "main": "./lib/index.js",
   "directories": {
     "test": "test"
   },
